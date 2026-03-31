@@ -53,5 +53,13 @@ Melhorias propostas
 
 ---
 
+Melhorias feitas
+
+- Introdução de Enums
+- Redução de erros
+- Princípios de orientações a objetos aplicados
+
+---
+
 Observação
 Este fork foi criado exclusivamente para fins acadêmicos.
